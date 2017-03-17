@@ -156,7 +156,7 @@
           },
           "title": "家",
           "text": "<font color=\"#000000\">home</font>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"m.me/636607386499863?ref=%E6%88%BF%E8%B2%B8\" data-toolbar=\"-mbrBtnMove\">額度利率評估</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"m.me/636607386499863?ref=hl\" data-toolbar=\"-mbrBtnMove\">額度利率評估</a> ",
           "_styles": {
             ".mbr-section-title": {
               "font-size": "25px",
@@ -197,7 +197,7 @@
           },
           "title": "旅行",
           "text": "<font color=\"#000000\">Travel</font>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"m.me/636607386499863?ref=%E5%A4%96%E5%8C%AF\" data-toolbar=\"-mbrBtnMove\">外匯換算</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"m.me/636607386499863?ref=ex\" data-toolbar=\"-mbrBtnMove\">外匯換算</a> ",
           "_styles": {
             ".mbr-section-lead FONT": {
               "color": "#ffffff"
@@ -235,9 +235,17 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "信用卡",
-          "text": "Credit Card",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"m.me/636607386499863?ref=%E4%BF%A1%E7%94%A8%E5%8D%A1\" data-toolbar=\"-mbrBtnMove\">信用卡推薦</a> "
+          "title": "<font color=\"#000000\">消費</font>",
+          "text": "<font color=\"#000000\">Shopping</font>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"m.me/636607386499863?ref=cc\" data-toolbar=\"-mbrBtnMove\">信用卡推薦</a> ",
+          "_styles": {
+            ".mbr-section-title FONT": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead FONT": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     }
